@@ -5,7 +5,7 @@ An exploratory data analysis of 1,000 students' exam scores across maths, readin
 
 ## Tools Used
 - SQL (SQLiteOnline): Data querying and aggregation
-- Google SHeets: Dashboard and visualisation
+- Google Sheets: Dashboard and visualisation
 
 ## Dataset
 Students Performance in Exams (Kaggle)
