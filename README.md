@@ -4,8 +4,8 @@
 An exploratory data analysis of 1,000 students' exam scores across maths, reading, and writing. The goal of the analysis is to identify the key factors that influence academic performance, with implications for school resource allocation. 
 
 ## Tools Used
-- SQL (SQLiteOnline): Data querying and aggregation
-- Google Sheets: Dashboard and visualisation
+- **SQL (SQLiteOnline)**: Data querying and aggregation
+- **Google Sheets**: Dashboard and visualisation
 
 ## Dataset
 Students Performance in Exams (Kaggle)
