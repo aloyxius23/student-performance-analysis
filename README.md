@@ -1,7 +1,7 @@
 # Student Performance Analysis 
 
 ## Overview
-An exploratory data analysis of 1,000 students' exam scores across maths, reading, and writing. The goal of the analysis is to identify the key factors that influence academic performance, with implications for school resource allocation. 
+An exploratory data analysis of 1,000 students' exam scores across maths, reading, and writing. The goal of the analysis is to identify the key factors that influence academic performance, with practical implications for school resource allocation, tutoring programme design, and early intervention strategies.
 
 ## Tools Used
 - **SQL (SQLiteOnline)**: Data querying and aggregation
