@@ -36,7 +36,7 @@ Although test preparation improves outcomes for disadvantaged students, it only 
 Overall, this analysis highlights that **socioeconomic background remains the most powerful determinant of student academic performance**, surpassing other factors such as test preparation and parental education. While targeted interventions like preparation courses can meaningfully boost scores, especially in writing and reading, they are not sufficient on their own to fully overcome structural inequalities. Parental education also plays an important role, though its influence appears to plateau at higher levels. These findings suggest that improving educational equity requires more than individual academic interventions. Broader systemic support addressing socioeconomic disparities may be necessary to create truly equal opportunities for student success.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard]
 
 ## SQL Queries
 See [analysis.sql](analysis.sql) for all the queries used in this analysis. 
