@@ -21,7 +21,7 @@ Lunch type emerged as the most influential variable in predicting student outcom
 
 **2. Test preparation significantly improves student test scores, with strongest effects seen in writing and reading.**
 
-Participation in test preparation was associated with notable score increases across all subjects. Students who completed the course scored an average of **9.9 points higher in writing, 7.4 points higher in reading, and 5.6 points higher in maths** compared to those who did not. The strongest gains in writing suggest that the course may place heavier emphasis on essay structure, written communication, and literacy-focused strategies rather than quantitative reasoning. While test preparation clearly enhances performance, its uneven impact across subjects indicates that curriclum design may be more optimised for language-based assessments than for maths mastery. 
+Participation in test preparation was associated with notable score increases across all subjects. Students who completed the course scored an average of **9.9 points higher in writing, 7.4 points higher in reading, and 5.6 points higher in maths** compared to those who did not. The strongest gains in writing suggest that the course may place heavier emphasis on essay structure, written communication, and literacy-focused strategies rather than quantitative reasoning. While test preparation clearly enhances performance, its uneven impact across subjects indicates that curriculum design may be more optimised for language-based assessments than for maths mastery. 
 
 **3. Higher parental education levels are positively associated with stronger student performance, but the advantage plateaus at the highest levels.**
 
